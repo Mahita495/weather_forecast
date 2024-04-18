@@ -1,5 +1,5 @@
 from random import shuffle
-
+import os
 
 class Card:
     suits = ["spades",
